@@ -42,6 +42,8 @@ The game is actively being developed with planned features including:
 - **Weapon System**: Multiple weapons with unique abilities
 - **Day/Night Cycle**: Dynamic environment changes affecting gameplay
 
+For a comprehensive list of suggested updates, code improvements, and free Unity 6 assets, see [SUGGESTED_UPDATES.md](./SUGGESTED_UPDATES.md).
+
 ## 🛠️ Installation
 
 ### Requirements
