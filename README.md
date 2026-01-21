@@ -50,7 +50,11 @@ The game is actively being developed with planned features including:
 
 ### For Players
 The game is upload-ready and will be available on supported platforms soon.
-###[Level_Less](https://auroria-digital-forge.itch.io/level-less)
+
+### [Level_Less](https://auroria-digital-forge.itch.io/level-less)
+
+<img width="613" height="408" alt="Level_less (1)" src="https://github.com/user-attachments/assets/5a2541a6-989c-4bc3-b796-95387c89540a" />
+
 
 ### For Developers
 1. Clone the repository
